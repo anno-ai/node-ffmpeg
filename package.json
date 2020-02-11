@@ -1,0 +1,24 @@
+{
+  "name": "@annoai/node-ffmpeg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anno-ai/node-ffmpeg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anno-ai/node-ffmpeg/issues"
+  },
+  "homepage": "https://github.com/anno-ai/node-ffmpeg#readme",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "@ffprobe-installer/ffprobe": "^1.0.12",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
