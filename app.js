@@ -1,2 +1,1 @@
-const { ffmpeg, fffmpegPath, fprobePath } = require('./index.js')
-
+const { ffmpeg, ffprobe, ffmpegPath, ffprobePath } = require('./index.js')

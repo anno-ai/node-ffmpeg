@@ -6,6 +6,7 @@ ffmpeg.setFfmpegPath(ffmpegPath)
 
 module.exports = {
   ffmpeg,
+  ffprobe: ffmpeg.ffprobe,
   ffmpegPath,
   ffprobePath
 }
